@@ -1,0 +1,45 @@
+Font font0 has been converted to font family Calibri (Bold) - Font has been regenerated, small inconsistencies may occur
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+!!! Font fontExp uses a font (DilleniaUPC) not installed on this system - Font has NOT been regenerated
+Converting GML script: ${project_dir}\objects\obj_enemy\Alarm_1.gml
+Converted description /// @description Moving
+
+Converting GML script: ${project_dir}\objects\obj_enemy02\Alarm_1.gml
+Converted description /// @description Moving
+
+Converting GML script: ${project_dir}\objects\obj_enemy03\Alarm_1.gml
+Converted description /// @description Moving
+
+Converting GML script: ${project_dir}\objects\obj_hero\Alarm_1.gml
+Converted description /// @description Moving
+
+Converting GML script: ${project_dir}\objects\obj_rndSpell\Alarm_0.gml
+Converted description /// @description  instance_destroy();
+
+Converting GML script: ${project_dir}\objects\obj_gameControl\Alarm_1.gml
+Converted description /// @description  PlayerMove = true IF enemy.moveEnd
+
+Converting GML script: ${project_dir}\objects\obj_gameControl\Alarm_0.gml
+Converted description /// @description  Reset Field (Next dungeon)/// @param Next dungeon
+
+Converting GML script: ${project_dir}\objects\obj_gameControl\KeyPress_69.gml
+Converted description /// @description  Reset Field (Next dungeon)/// @param Next dungeon
+
+Game speed set to 60
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_current_room.gml'
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'tile/tile_add.gml'
+Added compatibility script 'tile/tile_layer_delete.gml'
+Added compatibility script 'view/room_set_view.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

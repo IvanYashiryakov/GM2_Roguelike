@@ -1,0 +1,2 @@
+type = gameObjects.Empty;
+
